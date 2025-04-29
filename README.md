@@ -1,69 +1,55 @@
-# Statistica Applicata - Gruppo 9
+# Applied Statistics Project
 
-**Università degli Studi di Salerno**  
-**Corso di Laurea in Ingegneria Informatica**  
-**Anno accademico 2023-2024**  
+This repository contains a data analysis and statistical modeling project focused on social, economic, and environmental datasets.
 
----
-
-## 📚 Descrizione del progetto
-
-Questo repository contiene il materiale sviluppato per il **project work** di **Statistica Applicata**.  
-L'obiettivo del progetto è stato analizzare un dataset fornito, costruire modelli di regressione statistica, e individuare quello maggiormente adatto ai dati in termini di interpretabilità e performance.
-
-L'analisi è stata effettuata su diverse variabili relative a demografia, economia, inquinamento, trasporti pubblici, aree verdi e altri indicatori territoriali.
+The project aims to explore multiple variables and build statistical models (mainly linear regressions) to understand correlations, predict behaviors, and identify significant patterns across different territorial indicators.
 
 ---
 
-## 📦 Contenuto della repository
+## 📦 Repository Structure
 
-- **`dataset/`** ➔ Cartella contenente i 10 file `.csv` utilizzati nell'analisi.
+- **`dataset/`** ➔ Folder containing the 10 `.csv` datasets used in the analysis.
 - **`docs/`**
-  - `progetto_descrizione.pdf` ➔ Specifiche e linee guida del progetto.
-  - `relazione_finale_gruppo_9.docx` ➔ Relazione dettagliata sui modelli e analisi eseguite.
-- **`codice_analisi_gruppo9.R`** ➔ Codice R completo per il caricamento dati, analisi statistica e costruzione dei modelli.
-- **`presentazione_gruppo_9.pptx`** ➔ Presentazione finale del lavoro svolto.
+  - `progetto_descrizione.pdf` ➔ Project guidelines and specifications.
+  - `relazione_finale_gruppo_9.docx` ➔ Detailed report including statistical models, interpretations, and results.
+- **`codice_analisi_gruppo9.R`** ➔ Complete R script for data loading, statistical analysis, modeling, and visualization.
+- **`presentazione_gruppo_9.pptx`** ➔ Final presentation summarizing key findings and conclusions.
 
 ---
 
-## 🛠️ Tecnologie utilizzate
+## 🛠️ Technologies Used
 
-- **R** (linguaggio di programmazione per analisi statistica)
-- **RStudio** (IDE consigliato)
-- Librerie R principali: `ggplot2`, `corrplot`, `stats`, `car`, ecc.
-
----
-
-## 🚀 Come utilizzare il codice
-
-1. Clona questa repository o scaricala in locale.
-2. Apri `codice_analisi_gruppo9.R` in RStudio.
-3. Assicurati di avere i file nella cartella `dataset/` nello stesso percorso.
-4. Esegui lo script per riprodurre l'analisi statistica, i grafici e i modelli.
-
-> Tutti i dataset sono già normalizzati e pronti per l'analisi.
+- **R** (statistical programming language)
+- **RStudio** (recommended IDE)
+- Main R libraries: `ggplot2`, `corrplot`, `stats`, `car`, `psych`, among others.
 
 ---
 
-## 📄 Documentazione aggiuntiva
+## 🚀 How to Run the Project
 
-Per una descrizione approfondita delle tecniche usate, dei risultati ottenuti e per la visualizzazione dei grafici, consulta i documenti presenti nella cartella:
+1. Clone or download this repository.
+2. Open `codice_analisi_gruppo9.R` with RStudio.
+3. Ensure the `dataset/` folder is present in the working directory.
+4. Run the script to reproduce the data analysis, statistical models, and visualizations.
 
-👉 [Documentazione completa](docs/)
+> The datasets are already cleaned and ready for analysis.
 
 ---
 
-## 👥 Membri del gruppo
+## ✨ Project Highlights
+
+- Multivariate data analysis from real-world social and environmental datasets.
+- Construction and comparison of linear regression models.
+- Assessment of model performance using statistical metrics.
+- Data visualization to support interpretation and insights.
+
+---
+
+## 👥 Contributors
 
 - Alessandro Ambrosone
 - Vittorio Ciancio
 - Marco Di Maio
 - Antonio Giorgio
-
----
-
-## 🎓 Nota finale
-
-Questo progetto è stato realizzato nell'ambito dell'insegnamento di **Statistica Applicata** e ha valore esclusivamente accademico.
 
 ---
