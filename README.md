@@ -10,8 +10,8 @@ The project aims to explore multiple variables and build statistical models (mai
 
 - **`dataset/`** ➔ Folder containing the 10 `.csv` datasets used in the analysis.
 - **`docs/`**
-  - `progetto_descrizione.pdf` ➔ Project guidelines and specifications.
-  - `relazione_finale_gruppo_9.docx` ➔ Detailed report including statistical models, interpretations, and results.
+  - [Project Description (PDF)](docs/progetto_descrizione.pdf) ➔ Project guidelines and specifications.
+  - [Final Report (PDF)](docs/relazione_finale_gruppo_9.pdf) ➔ Detailed report including statistical models, interpretations, and results.
 - **`codice_analisi_gruppo9.R`** ➔ Complete R script for data loading, statistical analysis, modeling, and visualization.
 - **`presentazione_gruppo_9.pptx`** ➔ Final presentation summarizing key findings and conclusions.
 
