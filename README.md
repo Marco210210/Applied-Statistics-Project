@@ -48,7 +48,7 @@ The project aims to explore multiple variables and build statistical models (mai
 ## 👥 Contributors
 
 - Alessandro Ambrosone
-- Vittorio Ciancio
+- [Ciancio Vittorio](https://github.com/VittorioCiancio)
 - Marco Di Maio
 - Antonio Giorgio
 
